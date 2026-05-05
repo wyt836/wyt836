@@ -1,8 +1,25 @@
-## Tech Stack
+<h1 align="center">Hi there, I'm Yutong Wu 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&lines=Master+of+Computer+Science+@+UQ;AI+%7C+Computer+Vision+%7C+NLP;Always+learning%2C+always+building" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Master of Computer Science (AI) @ **The University of Queensland**, Brisbane, AU *(2026 – 2027)*
+- 🏫 Bachelor of Computer Science @ **The University of Queensland** *(2023 – 2025)*
+- 🔬 Research interests: **Computer Vision** · **Natural Language Processing** · **Deep Learning**
+- 🌏 Based in **Australia** · Originally from **China**
+- 📫 Reach me at: wyatttvillage@gmail.com
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<!-- 编程语言 -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -11,15 +28,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-<!-- 框架 -->
 ![Vue3](https://img.shields.io/badge/Vue3-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 
 </div>
 
 ---
 
-Most Used Languages
+## 📊 Most Used Languages
 
 <div align="center">
 
