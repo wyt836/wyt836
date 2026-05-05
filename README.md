@@ -1,18 +1,14 @@
-<h1 align="center">Hi there, I'm Yutong Wu 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&lines=Master+of+Computer+Science+@+UQ;AI+%7C+Computer+Vision+%7C+NLP;Always+learning%2C+always+building" />
-</p>
+<h1 align="center">Hi there, I'm Yutong Wu</h1>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Master of Computer Science (AI) @ **The University of Queensland**, Brisbane, AU *(2026 – 2027)*
-- 🏫 Bachelor of Computer Science @ **The University of Queensland** *(2023 – 2025)*
-- 🔬 Research interests: **Computer Vision** · **Natural Language Processing** · **Deep Learning**
-- 🌏 Based in **Australia** · Originally from **China**
-- 📫 Reach me at: wyatttvillage@gmail.com
+- Master of Computer Science (AI) @ **The University of Queensland**, Brisbane, AU *(2026 – 2027)*
+- Bachelor of Computer Science @ **The University of Queensland** *(2023 – 2025)*
+- Research interests: **Computer Vision** · **Natural Language Processing** · **Deep Learning**
+- Based in **Australia** · Originally from **China**
+- Reach me at: wyatttwillage@gmail.com
 
 ---
 
@@ -41,18 +37,3 @@
 ![Top Langs](https://github-readme-stats-rho-wine-33.vercel.app/api/top-langs/?username=wyt836&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&count_private=true)
 
 </div>
-
-<!--
-**wyt836/wyt836** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
