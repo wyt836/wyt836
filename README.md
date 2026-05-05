@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Yutong Wu</h1>
 
-- Master of Computer Science @ **The University of Queensland**, Brisbane, AU *(2026 – 2027)*
+- Master of Computer Science @ **The University of Queensland** *(2026 – 2027)*
 - Bachelor of Computer Science @ **The University of Queensland** *(2023 – 2025)*
 - Research interests: **Computer Vision** · **Natural Language Processing** · **Deep Learning**
 - Based in **Australia** · Originally from **China**
