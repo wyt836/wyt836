@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyt836&layout=compact&theme=tokyonight&langs_count=8&hide_border=true)
+![Top Langs](https://github-readme-stats-rho-wine-33.vercel.app/api/top-langs/?username=wyt836&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&count_private=true)
 
 </div>
 
